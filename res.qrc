@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>stream/forme.wav</file>
+        <file>stream/TiHH6-w-nFw.jpg</file>
+        <file>stream/doranew.jpg</file>
+        <file>stream/dorabig.jpg</file>
+        <file>stream/dora-dura.mp3</file>
+        <file>stream/scarface.ttf</file>
+        <file>stream/BloodLust.ttf</file>
+    </qresource>
+</RCC>
